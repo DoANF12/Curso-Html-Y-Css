@@ -99,7 +99,8 @@ main .articulos article img{
     background: #000;
     margin-bottom: 0;
     margin: 1px;
-    padding: 1px;
+    padding: .5px; 
+    
 }
 
 main .articulos article img:hover{
